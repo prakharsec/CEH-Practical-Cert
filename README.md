@@ -94,6 +94,5 @@ This learning path aligns with the **CEH Practical** exam objectives, focusing e
 
 ## 📄 Proof of Work
 
-🔗 [GitHub Repository Link (Demo)](https://github.com/your-username/ceh-practical-prep)  
-_(You can update this with your actual repo link)_
+🔗 ![CEH Practical Certificate](https://raw.githubusercontent.com/prakharsec/CEH-Practical-Cert/main/CEH%20Practical%20Cert.png)  
 
